@@ -11,7 +11,6 @@ public class Main {
         char firstCharacter = userInput.charAt(0);
         System.out.println(firstCharacter);
         System.out.println("Contains " + userInput.contains("Enter".toLowerCase()));
-        System.out.println("Contains " + userInput.contains("Enter".toLowerCase()));
 
         // System.out.println("Hello World!");
         // System.out.println("Vagner");
